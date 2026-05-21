@@ -1,1 +1,13 @@
 /* Start coding here */
+@font-face {
+    font-family:  'iannnnnCPU(2005)';
+    src: url('./fonts/2005_iannnnnCPU.ttf')
+  }
+
+
+body {
+    font-family: 'iannnnnCPU(2005)';
+    font-size: 16px;
+    color: #333;
+}
+
